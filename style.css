@@ -1,0 +1,68 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url("./img/pic-2.jpg");
+    overflow-y: hidden;
+}
+
+.navba {
+    opacity: 10;
+}
+
+.fa {
+    padding: 5px;
+    font-size: 20px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+}
+
+.fa-facebook {
+    color: rgb(0, 119, 255);
+}
+
+.fa-linkedin {
+    color: rgb(29, 0, 160);
+}
+
+.fa-github {
+    color: black;
+}
+
+.fa-youtube {
+    color: crimson;
+}
+
+.fa-google {
+    color: rgb(248, 0, 0);
+}
+
+.bodyimg {
+    height: 70vh;
+    width: 60vw;
+    margin: 5rem auto;
+}
+
+.centered {
+    text-align: center;
+    margin-top: 22%;
+    color: rgba(0, 0, 0, 0.507);
+}
+
+.IamUmesh {
+    text-decoration: underline;
+}
+
+.interactiveWebDevelopment {
+    font-size: 20px;
+}
+
+.container {
+    background-color: rgb(230, 227, 227);
+    padding: 20px;
+}
